@@ -1,0 +1,11 @@
+.vs/
+Debug/
+Release/
+*.obj
+*.exe
+*.log
+*.user
+*.suo
+*.cache/
+*.android/
+*.dotnet/
